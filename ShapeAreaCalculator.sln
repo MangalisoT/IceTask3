@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeAreaCalculator", "ShapeAreaCalculator\ShapeAreaCalculator.csproj", "{8FF90FAC-52AC-4AC9-83C0-DB32642F8D4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FF90FAC-52AC-4AC9-83C0-DB32642F8D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FF90FAC-52AC-4AC9-83C0-DB32642F8D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FF90FAC-52AC-4AC9-83C0-DB32642F8D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FF90FAC-52AC-4AC9-83C0-DB32642F8D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36FBE063-8443-4BA1-A66A-91559173D6BF}
+	EndGlobalSection
+EndGlobal
