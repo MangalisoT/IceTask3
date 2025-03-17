@@ -1,0 +1,7 @@
+name: C# Build and Syntax Check
+
+on:
+  push:
+    branches: ["main"] # Change to branch you pushed code too
+  pull_request:
+    branches: ["main"]
